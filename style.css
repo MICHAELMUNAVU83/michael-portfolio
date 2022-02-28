@@ -290,8 +290,13 @@ a {
 }
 
 @keyframes example {
-  form { color: blue; }
-  to { color: green; }
+  form {
+    color: blue;
+  }
+
+  to {
+    color: green;
+  }
 }
 
 .about-me-button {
@@ -871,7 +876,7 @@ footer {
   }
 
   footer {
-    height: 72px;
+    height: 73px;
     display: flex;
     justify-content: center;
     border-top: 1px solid #dfe1e6;
