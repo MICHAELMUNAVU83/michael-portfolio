@@ -290,8 +290,13 @@ a {
 }
 
 @keyframes example {
-  form { color: blue; }
-  to { color: green; }
+  form {
+    color: blue;
+  }
+
+  to {
+    color: green;
+  }
 }
 
 .about-me-button {
